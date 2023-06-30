@@ -35,7 +35,7 @@ function App() {
     <>
         <>
           <nav>
-            <div className='logo'><img src={logo_of_datatech_innovations} alt="Logo" />DataTech Innovations</div>
+            <div className='logo'><img src={logo_of_datatech_innovations} alt="Logo" />ANK Tech Sol</div>
 
 
             <div className='item-cont'>
