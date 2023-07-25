@@ -25,10 +25,7 @@ export const Form = () => {
       <input type="text" required="required"/>
       <span>Email</span>
     </div>
-    <div class="inputbox">
-      <input type="text" required="required"/>
-      <span>Password</span>
-    </div>
+    
     <div class="inputbox">
       <textarea type="text" required="required"/>
       <span>Message</span>
